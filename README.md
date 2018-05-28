@@ -9,8 +9,8 @@
   * [功能](#功能)
   * [系统结构](#系统结构)
 * [系统配置](#系统配置)
- * [硬件需求](#硬件需求)
- * [软件需求](#软件需求)
+  * [硬件需求](#硬件需求)
+  * [软件需求](#软件需求)
 ----
 # **作品介绍**
 本作品<br>
@@ -18,11 +18,16 @@
 * 功能1
 * 功能2<br>
 ## **系统结构**
-<img src="https://github.com/tyhucosiii/smart-lamp/blob/master/pictures/smartlamp.jpg" width = "300" alt="图片名称" align=center /> <br>
+<img src="https://github.com/tyhucosiii/smart-lamp/blob/master/pictures/system.jpg" width = "300" alt="图片名称" align=center /> <br>
+# **系统配置**
+## **硬件需求**
+* ARC
+* ESP8266
+* 红外对管模块
+* 触摸按键模块
+* CM3232环境光检测模块
+## **软件需求**
 
-输入文字<br>
-另起一行<br>
-插入图片<br>
 <img src="https://github.com/tyhucosiii/smart-lamp/blob/master/pictures/smartlamp.jpg" width = "300" alt="图片名称" align=center /> <br>
 <img src="https://github.com/tyhucosiii/smart-lamp/blob/master/pictures/ESP8266.jpg" width = "300" alt="图片名称" align=center /> <br>
 <img src="https://github.com/tyhucosiii/smart-lamp/blob/master/pictures/IR.jpg" width = "300" alt="图片名称" align=center /> <br>
