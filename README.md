@@ -23,7 +23,7 @@
 * **远程APP控制**<br>
 APP控制能够支持用户的频繁操作，在高强度的来回调档测试下也不会出现错误操作、无效操作等问题。
 ## **系统结构**
-<img src="https://github.com/tyhucosiii/smart-lamp/blob/master/pictures/system.jpg" width = "300" alt="图片名称" align=center /> <br>
+<img src="https://github.com/tyhucosiii/smart-lamp/blob/master/pictures/system.jpg" width = "500" alt="图片名称" align=center /> <br>
 
 ----
 # **系统配置**
