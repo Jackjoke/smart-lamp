@@ -18,6 +18,7 @@
 插入图片<br>
 ![](https://github.com/tyhucosiii/smart-lamp/blob/master/pictures/CM3232.jpg)<br>
 <img src="https://github.com/tyhucosiii/smart-lamp/blob/master/pictures/CM3232.jpg" width = "300" alt="图片名称" align=center />
+<br>
 插入表格<br>
 
 |模块 |数量 |功能 |
