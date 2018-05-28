@@ -43,7 +43,10 @@ APP控制能够支持用户的频繁操作，在高强度的来回调档测试�
 * 串口调试助手
 * 移动端应用程序
 ## **硬件连接**
-<img src="https://github.com/tyhucosiii/smart-lamp/blob/master/pictures/all.jpg" height = "300" alt="图片名称" align=center />
-文字链接[baidu](https://www.baidu.com)
+<img src="https://github.com/tyhucosiii/smart-lamp/blob/master/pictures/all.jpg" height = "500" alt="图片名称" align=center /><br>
+* ESP8266模块通过开发板的Pmod1接口与UART1连接
+* CM3232感光模块通过开发板的Pmod3接口与I²C接口连接
+* 触控板模块通过开发板的Pmod3接口与模拟UART连接
+* 红外模块通过开发板的Pmod2接口与GPIO连接
 
 ----
