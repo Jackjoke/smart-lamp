@@ -35,7 +35,7 @@ APP控制能够支持用户的频繁操作，在高强度的来回调档测试�
 * 红外对管模块
 * 触摸按键模块
 * CM3232环境光检测模块<br>
-<img src="https://github.com/tyhucosiii/smart-lamp/blob/master/pictures/all.jpg" height = "150" alt="图片名称" align=center /><img src="https://github.com/tyhucosiii/smart-lamp/blob/master/pictures/esp8266.jpg" height = "150" alt="图片名称" align=center /><img src="https://github.com/tyhucosiii/smart-lamp/blob/master/pictures/ir.jpg" height = "150" alt="图片名称" align=center /><img src="https://github.com/tyhucosiii/smart-lamp/blob/master/pictures/touchpad.jpg" height = "150" alt="图片名称" align=center /><img src="https://github.com/tyhucosiii/smart-lamp/blob/master/pictures/cm3232.jpg" height = "150" alt="图片名称" align=center />
+<img src="https://github.com/tyhucosiii/smart-lamp/blob/master/pictures/esp8266.jpg" height = "150" alt="图片名称" align=center /><img src="https://github.com/tyhucosiii/smart-lamp/blob/master/pictures/ir.jpg" height = "150" alt="图片名称" align=center /><img src="https://github.com/tyhucosiii/smart-lamp/blob/master/pictures/touchpad.jpg" height = "150" alt="图片名称" align=center /><img src="https://github.com/tyhucosiii/smart-lamp/blob/master/pictures/cm3232.jpg" height = "150" alt="图片名称" align=center />
 
 ## **软件需求**
 * ARC GNU Toolchain
@@ -43,6 +43,7 @@ APP控制能够支持用户的频繁操作，在高强度的来回调档测试�
 * 串口调试助手
 * 移动端应用程序
 ## **硬件连接**
+<img src="https://github.com/tyhucosiii/smart-lamp/blob/master/pictures/all.jpg" height = "300" alt="图片名称" align=center />
 文字链接[baidu](https://www.baidu.com)
 
 ----
