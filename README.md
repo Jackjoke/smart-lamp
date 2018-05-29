@@ -10,6 +10,7 @@
   * [硬件需求](#硬件需求)
   * [软件需求](#软件需求)
   * [硬件连接](#硬件连接)
+* [用户手册](#用户手册)
 * [注释](#注释)  
 * [视频链接](#视频链接)
 ----
@@ -50,6 +51,10 @@ APP控制能够支持用户的频繁操作，在高强度的来回调档测试�
 * 红外模块通过开发板的Pmod2接口与GPIO连接
 
 ----
+# **用户手册**
+
+----
+
 ## **注释**
 GitHub中的src和inc目录下的文件只用来预览代码，由于makefile的目录不一致不能直接下载运行。
 如果想运行该工程，请下载[压缩包](https://github.com/tyhucosiii/smart-lamp/blob/master/src/FreeRTOS.rar),并解压到embarc_osp-master\example\freertos文件夹下载入工程。
