@@ -49,5 +49,9 @@ APP控制能够支持用户的频繁操作，在高强度的来回调档测试�
 * 红外模块通过开发板的Pmod2接口与GPIO连接
 
 ----
+## **注释**
+如果想运行该工程，请下载[压缩包](https://github.com/tyhucosiii/smart-lamp/blob/master/src/FreeRTOS.rar),并解压到embarc-osp的example文件夹下。
+
+----
 # **[视频链接](http://v.youku.com/v_show/id_XMzYzMDk1MzMyOA==.html?spm=a2h3j.8428770.3416059.1)**
 ----
