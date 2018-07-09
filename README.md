@@ -11,7 +11,7 @@
   * [Software](#software)
   * [Hardware Connection](#connection)
 * [User Manual](#usermanual)
-* [Video](#Video)
+* [Video](#video)
 ----
 # **Introduction** <div id='introduction'/>
 This project designed a smart lamp which was based on ARC EM Starter Kit. The lamp can detect whether the user is using to turn on or off, automatically connect the server to report the real-time status, and manually and automatically adjust the brightness, remotely be controled by the APP console, record the user's usage time. The follow-up will add the functions of detecting the unhealthy work schedule of the user and correcting the user's incorrect sitting habits, which can help the user to effectively get rid of the health hazards brought by the high pressure of modern life, develop a good working habit,  and keep your body and eyes healthy.
@@ -66,5 +66,5 @@ APP控制能够支持用户的频繁操作，在高强度的来回调档测试�
 * The user can remotely control via mobile client可通过移动客户端进行远程控制
 
 ----
-# **[Video](https://v.youku.com/v_show/id_XMzcxMzE0NzA0NA==.html?spm=a2h3j.8428770.3416059.1)**
+# **[Video]<div id='video'/>(https://v.youku.com/v_show/id_XMzcxMzE0NzA0NA==.html?spm=a2h3j.8428770.3416059.1)**
 ----
