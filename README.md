@@ -66,5 +66,5 @@ APP控制能够支持用户的频繁操作，在高强度的来回调档测试�
 * The user can remotely control via mobile client可通过移动客户端进行远程控制
 
 ----
-# **[Video](http://v.youku.com/v_show/id_XMzYzMDk1MzMyOA==.html?spm=a2h3j.8428770.3416059.1)**
+# **[Video](https://v.youku.com/v_show/id_XMzcxMzE0NzA0NA==.html?spm=a2h3j.8428770.3416059.1)**
 ----
